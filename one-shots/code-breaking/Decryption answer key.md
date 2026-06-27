@@ -1,4 +1,4 @@
-## Decryption Activity – Answer Key
+## Decryption Answer Key
 
 <details><summary>No peeking!</summary>
   
