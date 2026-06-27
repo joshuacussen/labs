@@ -1,6 +1,7 @@
 ## Decryption Activity – Answer Key
 
 <details><summary>No peeking!</summary>
+  
 **Message 1** — *Rail Fence (3 rails)*
 ```
 THE BLUE KANGAROO ATE SEVENTEEN PICKLES BEFORE CLIMBING THE ENORMOUS PURPLE LADDER ON A TUESDAY
